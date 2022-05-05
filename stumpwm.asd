@@ -61,6 +61,7 @@
                (:file "dynamic-group")
                (:file "remap-keys")
                (:file "manual")
+               (:file "roswell/stumpwm.ros")
                ;; keep this last so it always gets recompiled if
                ;; anything changes
                (:file "version"))
